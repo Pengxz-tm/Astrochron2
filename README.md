@@ -67,4 +67,4 @@
 #### <2> `日照量梯度` | `日照量时空分布`
 ![index](https://github.com/Pengxz-tm/Astrochron-app/blob/main/inso2.png)
 #### <3> `全年日照量分布`
-[范例](http://www.jiaobu365.com/Free/5d8aedcfa4c2c.html)  
+[范例下载](https://github.com/Pengxz-tm/Astrochron-app/blob/main/insolation.html)  
