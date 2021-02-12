@@ -21,7 +21,7 @@
 
 1. 深度—指标列数据和时间锚定点数据结合使用将深度列转换为时间列，或者是将时间—指标列数据和时间锚定点数据结合使用将原始时间转换为需校正的时间点，本网站提供了[范例数据](https://github.com/Pengxz-tm/Astrochron2)供用户测试使用(包括[深度-指标数据](https://github.com/Pengxz-tm/Astrochron2/blob/main/%E9%80%9A%E7%94%A8%E6%95%B0%E6%8D%AE.xlsx)和[时间锚定点数据](https://github.com/Pengxz-tm/Astrochron2/blob/main/%E6%97%B6%E9%97%B4%E9%94%9A%E5%AE%9A%E6%95%B0%E6%8D%AE.xlsx))；
 2. [深海氧同位素数据](https://github.com/Pengxz-tm/Astrochron2/blob/main/LR04_Stack_0_5320ka.xlsx)和[黄土高原不同剖面磁化率数据](https://github.com/Pengxz-tm/Astrochron2/blob/main/%E8%8C%83%E4%BE%8B%E6%95%B0%E6%8D%AE.xlsx)(时间-指标)也可被使用；
-3. 用户可根据自己的需要在右侧栏上传自己需处理的文件，深度适宜以`厘米(cm)`为单位，时间适宜以`千年(ka)`为单位。
+3. 用户可根据自己的需要在右侧栏上传自己需处理的文件，深度适宜以`米(m)`为单位，时间适宜以`千年(ka)`为单位。
 
 由于用户上传数据可能种类多样，因此可参考本站提供的范例数据适当调整格式修改。此外，对于本站所发表内容和资料等进行的二次使用所产生的各项问题，本站以及运营团队概不负责，敬请知悉。
 
@@ -29,7 +29,7 @@
 
 ### 项目主创
 
-- 数据搜集、基于 `shiny` 的可视化开发：[@Pengxz_tm](https://github.com/Pengxz-tm)  
+- 数据在线处理、基于 `shiny` 的可视化开发：[@Pengxz_tm](https://pengxz.shinyapps.io/Astrochron2/)  
 - 作者简介：[彭贤哲](http://www.jiaobu365.com/Free/5d8aedcfa4c2c.html)  
 - 灵感来源：田少华
 
@@ -67,4 +67,4 @@
 #### <2> `日照量梯度` | `日照量时空分布`
 ![index](https://github.com/Pengxz-tm/Astrochron-app/blob/main/inso2.png)
 #### <3> `全年日照量分布`
-[范例下载](https://github.com/Pengxz-tm/Astrochron-app/blob/main/insolation.html)  
+[范例下载](https://github.com/Pengxz-tm/Astrochron-app/blob/main/insolation.html)
